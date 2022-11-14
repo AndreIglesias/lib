@@ -1,15 +1,15 @@
 [submodule "libstd"]
 	path = libstd
-	url = https://github.com/AndreIglesias/libstd
+	url = git@github.com:AndreIglesias/libstd.git
 [submodule "libstring"]
 	path = libstring
-	url = https://github.com/AndreIglesias/libstring
+	url = git@github.com:AndreIglesias/libstring.git
 [submodule "libELF"]
 	path = libELF
-	url = https://github.com/AndreIglesias/libELF
+	url = git@github.com:AndreIglesias/libELF.git
 [submodule "libalgorithm"]
 	path = libalgorithm
-	url = https://github.com/AndreIglesias/libalgorithm
+	url = git@github.com:AndreIglesias/libalgorithm.git
 [submodule "libtypes"]
 	path = libtypes
-	url = https://github.com/AndreIglesias/libtypes
+	url = git@github.com:AndreIglesias/libtypes.git
